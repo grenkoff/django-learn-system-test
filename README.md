@@ -13,13 +13,13 @@ Submission deadline - within 4 days.
 The essence of the task is to test knowledge of building database relationships and the ability to construct queries without N+1 errors.
 
 Before starting the task, we recommend studying the materials that will help with the tasks:
-* <a href=https://docs.djangoproject.com/en/4.2/intro/tutorial01/ target=_blank>https://docs.djangoproject.com/en/4.2/intro/tutorial01/</a>
-* <a href=https://docs.djangoproject.com/en/4.2/topics/db/models/ target=_blank>https://docs.djangoproject.com/en/4.2/topics/db/models/</a>
-* <a href=https://docs.djangoproject.com/en/4.2/topics/db/queries/ target=_blank>https://docs.djangoproject.com/en/4.2/topics/db/queries/</a>
-* <a href=https://docs.djangoproject.com/en/4.2/ref/models/querysets/ target=_blank>https://docs.djangoproject.com/en/4.2/ref/models/querysets/</a>
-* <a href=https://www.django-rest-framework.org/tutorial/quickstart/ target=_blank>https://www.django-rest-framework.org/tutorial/quickstart/</a>
-* <a href=https://www.django-rest-framework.org/api-guide/viewsets/ target=_blank>https://www.django-rest-framework.org/api-guide/viewsets/</a>
-* <a href=https://www.django-rest-framework.org/api-guide/serializers/ target=_blank>https://www.django-rest-framework.org/api-guide/serializers/</a>
+* <a href="https://docs.djangoproject.com/en/4.2/intro/tutorial01/" target="_blank">https://docs.djangoproject.com/en/4.2/intro/tutorial01/</a>
+* <a href="https://docs.djangoproject.com/en/4.2/topics/db/models/" target="_blank">https://docs.djangoproject.com/en/4.2/topics/db/models/</a>
+* <a href="https://docs.djangoproject.com/en/4.2/topics/db/queries/" target="_blank">https://docs.djangoproject.com/en/4.2/topics/db/queries/</a>
+* <a href="https://docs.djangoproject.com/en/4.2/ref/models/querysets/" target="_blank">https://docs.djangoproject.com/en/4.2/ref/models/querysets/</a>
+* <a href="https://www.django-rest-framework.org/tutorial/quickstart/" target="_blank">https://www.django-rest-framework.org/tutorial/quickstart/</a>
+* <a href="https://www.django-rest-framework.org/api-guide/viewsets/" target="_blank">https://www.django-rest-framework.org/api-guide/viewsets/</a>
+* <a href="https://www.django-rest-framework.org/api-guide/serializers/" target="_blank">https://www.django-rest-framework.org/api-guide/serializers/</a>
 
 ### Architecture design (3 points)
 
