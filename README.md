@@ -1,6 +1,6 @@
 # Project `django-learn-system-test`
 
-This project is a test task for <a href=http://hardqode.com/ target=_blank>HardQode</a>.
+This project is a test task for <a href="http://hardqode.com/" target="_blank">HardQode</a>.
 
 ## Test task
 
