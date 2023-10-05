@@ -1,24 +1,25 @@
 # Project `django-learn-system-test`
 
-This project is a test task for HardQode.
+This project is a test task for [HardQode](http://hardqode.com/).
 
 ## Test task
 
-Execution time ~ 8 hours for a junior level
-Submission deadline - within 4 days
+Execution time ~ 8 hours for a junior level.
+
+Submission deadline - within 4 days.
 
 ## Building a learning system
 
 The essence of the task is to test knowledge of building database relationships and the ability to construct queries without N+1 errors.
 
 Before starting the task, we recommend studying the materials that will help with the tasks:
-https://docs.djangoproject.com/en/4.2/intro/tutorial01/
-https://docs.djangoproject.com/en/4.2/topics/db/models/
-https://docs.djangoproject.com/en/4.2/topics/db/queries/
-https://docs.djangoproject.com/en/4.2/ref/models/querysets/
-https://www.django-rest-framework.org/tutorial/quickstart/
-https://www.django-rest-framework.org/api-guide/viewsets/
-https://www.django-rest-framework.org/api-guide/serializers/
+* https://docs.djangoproject.com/en/4.2/intro/tutorial01/
+* https://docs.djangoproject.com/en/4.2/topics/db/models/
+* https://docs.djangoproject.com/en/4.2/topics/db/queries/
+* https://docs.djangoproject.com/en/4.2/ref/models/querysets/
+* https://www.django-rest-framework.org/tutorial/quickstart/
+* https://www.django-rest-framework.org/api-guide/viewsets/
+* https://www.django-rest-framework.org/api-guide/serializers/
 
 ### Architecture design (3 points)
 
@@ -33,10 +34,10 @@ In this section, you will need to use the architecture you created in the previo
 1. Implement an API to display a list of all lessons across all products to which the user has access, including information about the status and viewing time.
 2. Implement an API to display a list of lessons for a specific product to which the user has access, including information about the status and viewing time, as well as the date of the last viewing of the video.
 3.  Implement an API to display product statistics. It is necessary to display a list of all products on the platform, and for each product, attach the following information:
-* The number of viewed lessons by all students.
-* The total time all students spent watching the videos.
-* The number of students studying the product.
-* The product acquisition percentage (calculated based on the number of accesses to the product divided by the total number of users on the platform).
+    * The number of viewed lessons by all students.
+    * The total time all students spent watching the videos.
+    * The number of students studying the product.
+    * The product acquisition percentage (calculated based on the number of accesses to the product divided by the total number of users on the platform).
 
 ### Execution result
 
@@ -45,4 +46,4 @@ In this section, you will need to use the architecture you created in the previo
 
 ### We expect
 
-A link to a public GitHub repository with the completed project.
+A link to a **public GitHub repository** with the completed project.
