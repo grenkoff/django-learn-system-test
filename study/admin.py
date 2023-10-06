@@ -1,3 +1,12 @@
 from django.contrib import admin
 
-# Register your models here.
+from study.models import Lesson, LessonViewInfo
+
+@admin.register(Lesson)
+class LessonAdmin(admin.ModelAdmin):
+    pass
+
+
+@admin.register(LessonViewInfo)
+class LessonViewInfoAdmin(admin.ModelAdmin):
+    pass

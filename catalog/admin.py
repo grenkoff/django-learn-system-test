@@ -1,3 +1,12 @@
 from django.contrib import admin
 
-# Register your models here.
+from catalog.models import Product, ProductAccess
+
+@admin.register(Product)
+class ProductAdmin(admin.ModelAdmin):
+    pass
+
+
+@admin.register(ProductAccess)
+class ProductAccess(admin.ModelAdmin):
+    pass
